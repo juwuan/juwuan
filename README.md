@@ -28,9 +28,6 @@
 ###
 
 <h3 align="left">🛠 Que sé?</h3>
-
-###
-
 <br clear="both">
 
 <h6 align="left">(Me lo pregunto constantemente)</h6>
@@ -76,9 +73,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="20" alt="powershell logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
