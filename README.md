@@ -15,11 +15,13 @@
 
 ###
 
+<br clear="both">
+
 <h1 align="center">Holapirinola 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mi</h3>
+<h3 align="center">👩‍💻  Sobre mi</h3>
 
 ###
 
@@ -27,14 +29,17 @@
 
 ###
 
-<h3 align="left">🛠 Que sé?</h3>
 <br clear="both">
 
-<h6 align="left">(Me lo pregunto constantemente)</h6>
+<h3 align="center">🛠 Que sé?</h3>
 
 ###
 
-<div align="left">
+<h6 align="right">(Me lo pregunto constantemente)</h6>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
@@ -54,7 +59,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="25" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="25" alt="amazonwebservices logo"  />
@@ -64,7 +69,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=bots" height="20" alt="abbrobotstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=discord" height="20" alt="discord logo"  />
@@ -73,5 +78,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="20" alt="powershell logo"  />
 </div>
-
-###
